@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.git/
+.gitignore
+# Large artifacts are mounted as volumes, not copied into the build context.
+data/
+models/
+README.md
