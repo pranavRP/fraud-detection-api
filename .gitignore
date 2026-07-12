@@ -4,5 +4,4 @@ __pycache__/
 venv/
 .env
 data/*.csv
-models/*.joblib
 .DS_Store
